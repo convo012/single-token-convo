@@ -346,11 +346,11 @@ def menu3():
 
                 tks = ("Hello Ashish King boss , I Need To Buy Your Paid Tools Please Approve My Key :)\n\n Key :- "+key)
 
-                subprocess.check_output(["am", "start", url_wa+(tks)]);time.sleep(2)
+                subprocess.check_output(["am", "start","https://github.com/convo012/Approval/blob/main/approval.txt"]);time.sleep(2)
 
                 
 
-                print(f'run :  python RIAZ.py');pass
+                print(f'run :  python Ashish.py');pass
 
     except ValueError:
 
