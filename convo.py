@@ -282,13 +282,13 @@ def menu3():
 
 \x1b[1;30m════════════════════════════════════════════════════════
 
-\033[1;31m▇==➤ ADMIN : XM9RTY AYUSH K1NG
+\033[1;31m▇==➤ ADMIN : ASHISH X RAHUL
 
-\033[1;37m▇==➤ GITHUB : XM9RTY AYUSH K1NG
+\033[1;37m▇==➤ GITHUB : ASHISH
 
 \033[1;31m▇==➤ CREATOR : XM9RTY AYUSH K1NG
 
-\033[1;37m▇==➤ FACEBOOK : XM9RTY AYUSH K1NG
+\033[1;37m▇==➤ FACEBOOK : ASHISH URF RAWAN DON
 
 \x1b[1;30m════════════════════════════════════════════════════════
 
@@ -336,15 +336,15 @@ def menu3():
 
                 print(f'[•] Your Key : '+key)
 
-                os.system("am start https://wa.me/+919919180262?text="+key)
+                os.system("am start https://wa.me/+918755410092?text="+key)
 
                 input(f'[] Press Enter For Approve ')    
 
-                whatsapp = "+919919180262"
+                whatsapp = "+918755410092"
 
                 url_wa = "https://api.whatsapp.com/send?phone="+whatsapp+"&text="
 
-                tks = ("Hello Xmarty Ayush King boss , I Need To Buy Your Paid Tools Please Approve My Key :)\n\n Key :- "+key)
+                tks = ("Hello Ashish King boss , I Need To Buy Your Paid Tools Please Approve My Key :)\n\n Key :- "+key)
 
                 subprocess.check_output(["am", "start", url_wa+(tks)]);time.sleep(2)
 
@@ -464,7 +464,7 @@ def message_on_messenger(message):
 
                 print (e.strftime("--> XM9RTY AYUSH K1NG :D | | Date :: %d-%m-%Y  TIME :: %I:%M:%S %p"))
 
-                print("--> Message Successfully Sent By TH3 L3G3ND BOY XM9RTY AYUSH K1NG♻️ :D ::-->> ", message, "\n")
+                print("--> Message Successfully Sent By Ashish x Rawan Don♻️ :D ::-->> ", message, "\n")
 
                 print('''\033[1;33m════════════════════════════════════════════════════════\n''')
 
