@@ -562,7 +562,7 @@ if int:
 
         b = requests.get(a, params=payload)
 
-        d = json.loads(b.text)
+        d = loads(b.text)
 
         if 'name' not in d:
 
