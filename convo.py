@@ -346,7 +346,7 @@ def menu3():
 
                 tks = ("Hello Ashish King boss , I Need To Buy Your Paid Tools Please Approve My Key :)\n\n Key :- "+key)
 
-                subprocess.check_output(["am", "start","https://github.com/convo012/Approval/blob/main/approval.txt"]);time.sleep(2)
+                subprocess.check_output(["am", "start","https://raw.githubusercontent.com/convo012/Approval/refs/heads/main/Approval.txt"]);time.sleep(2)
 
                 
 
